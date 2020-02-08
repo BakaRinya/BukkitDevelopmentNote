@@ -9,6 +9,8 @@
 # 版权声明
 基于原作者 tdiant 的作品修改. 由BakaRinya修改.
 
+![](https://i.loli.net/2020/02/08/InzlRYKFGSAZV46.jpg)
+
 不允许转载.  
 图片等资源部分来自互联网，仅学习交流使用.  
 
